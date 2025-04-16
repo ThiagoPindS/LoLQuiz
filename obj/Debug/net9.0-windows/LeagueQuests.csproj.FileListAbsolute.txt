@@ -1,0 +1,17 @@
+C:\Users\Thiago\source\repos\LeagueQuests\bin\Debug\net9.0-windows\LeagueQuests.exe
+C:\Users\Thiago\source\repos\LeagueQuests\bin\Debug\net9.0-windows\LeagueQuests.deps.json
+C:\Users\Thiago\source\repos\LeagueQuests\bin\Debug\net9.0-windows\LeagueQuests.runtimeconfig.json
+C:\Users\Thiago\source\repos\LeagueQuests\bin\Debug\net9.0-windows\LeagueQuests.dll
+C:\Users\Thiago\source\repos\LeagueQuests\bin\Debug\net9.0-windows\LeagueQuests.pdb
+C:\Users\Thiago\source\repos\LeagueQuests\obj\Debug\net9.0-windows\LeagueQuests.Screens.Game.resources
+C:\Users\Thiago\source\repos\LeagueQuests\obj\Debug\net9.0-windows\LeagueQuests.Menu.resources
+C:\Users\Thiago\source\repos\LeagueQuests\obj\Debug\net9.0-windows\LeagueQuests.csproj.GenerateResource.cache
+C:\Users\Thiago\source\repos\LeagueQuests\obj\Debug\net9.0-windows\LeagueQuests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\LeagueQuests\obj\Debug\net9.0-windows\LeagueQuests.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\LeagueQuests\obj\Debug\net9.0-windows\LeagueQuests.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\LeagueQuests\obj\Debug\net9.0-windows\LeagueQuests.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\LeagueQuests\obj\Debug\net9.0-windows\LeagueQuests.dll
+C:\Users\Thiago\source\repos\LeagueQuests\obj\Debug\net9.0-windows\refint\LeagueQuests.dll
+C:\Users\Thiago\source\repos\LeagueQuests\obj\Debug\net9.0-windows\LeagueQuests.pdb
+C:\Users\Thiago\source\repos\LeagueQuests\obj\Debug\net9.0-windows\LeagueQuests.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\LeagueQuests\obj\Debug\net9.0-windows\ref\LeagueQuests.dll
